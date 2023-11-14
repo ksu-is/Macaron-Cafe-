@@ -10,10 +10,10 @@ Conveyor Belt Operation: Simulates the movement of a conveyor belt. Order Assign
 
 How It Works
 
-Customer places order, each order being assigned to a unique identifier
-Customer proceeds to the designated table as indicated on their receipt.
-Employees or bakers place the customer's order on the conveyor belt.
-The employee presses a button corresponding to tthe customer's assigned table, e.g., "Table 6", initiating the delivery process.
-When the conveyor belt reaches a table where an order is destined, it stops for a set period to allow for order pickup.
-Customer pick up orders during the stoppage period.
-The system updates the order status reflect successful delivery.
+1. Customer places order, each order being assigned to a unique identifier
+2. Customer proceeds to the designated table as indicated on their receipt.
+3. Employees or bakers place the customer's order on the conveyor belt.
+4. The employee presses a button corresponding to tthe customer's assigned table, e.g., "Table 6", initiating the delivery process.
+5. When the conveyor belt reaches a table where an order is destined, it stops for a set period to allow for order pickup.
+6. Customer pick up orders during the stoppage period.
+7. The system updates the order status reflect successful delivery.
