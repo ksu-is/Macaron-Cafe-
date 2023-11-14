@@ -1,13 +1,8 @@
-- [x] Define project goals and objectives.
-- [x] Create a detailed project plan with milestones and timelines.
-- [x] Set up the development environment.
-- [x] Design the user interface.
-- [x] Develop the core functionality.
-- [x] Test the software for bugs and issues.
-- [x] Implement user feedback and make improvements.
-- [x] Perform system testing and quality assurance.
-- [x] Prepare for deployment.
-- [x] Launch the project.
-- [x] Monitor and maintain the project post-launch.
-- [x] Document the project for reference and future development.
-- [x] Evaluate project success and gather feedback for future improvements.
+Macaron Cafe Conveyor Belt - Project Roadmap
+- [x] Create Readme File that describes project goals and objectives.
+- [x] Impliment license into repository.  
+- [x] Set up project roadmap with task list 
+- [ ] Find existing and related repositry to this project
+- [ ] Create a detailed project plan with milestones and timelines.
+- [ ] Test the software for bugs and issues.
+- [ ] Make improvements.
