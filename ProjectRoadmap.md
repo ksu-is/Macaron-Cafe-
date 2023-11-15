@@ -1,8 +1,11 @@
 Macaron Cafe Conveyor Belt - Project Roadmap
 - [x] Create Readme File that describes project goals and objectives.
 - [x] Impliment license into repository.  
-- [x] Set up project roadmap with task list 
-- [ ] Find existing and related repositry to this project
-- [ ] Create a detailed project plan with milestones and timelines.
+- [x] Set up project roadmap with task list
+- [x] Find existing and related repositry to this project
+- [x] Create and find 3D Models with TinerCAD
+- [x] Print 3D Models
+- [ ] Assemble conveyor belt
+- [ ] Design code for Rasberry PI
 - [ ] Test the software for bugs and issues.
 - [ ] Make improvements.
