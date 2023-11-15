@@ -10,16 +10,16 @@ Conveyor Belt Operation: The 3D printed conveyor belt simulates the movement of 
 
 Order Assignment: The system assigns unique identifiers to each order, facilitating organized order management.
 
-Raspberry Pi Control: The Raspberry Pi acts as the central control unit, managing the conveyor belt's movemnt and stopping at specific intervals.
+Raspberry Pi Control: The Raspberry Pi acts as the central control unit, managing the conveyor belt's movement and stopping at specific intervals.
 
-"Table Stops": The conveyor belt halts as a designated table, providing a convenient and efficent means for customers to pick up their orders. 
+"Table Stops": The conveyor belt halts at a designated table, providing a convenient and efficent means for customers to pick up their orders. 
 
 How It Works
 
 1. Customer places order, each order being assigned to a unique identifier
 2. Customer proceeds to the designated table as indicated on their receipt.
 3. Employees or bakers place the customer's order on the conveyor belt.
-4. The employee presses a button corresponding to tthe customer's assigned table, e.g., "Table 6", initiating the delivery process.
+4. The employee presses a button corresponding to the customer's assigned table, e.g., "Table 6", initiating the delivery process.
 5. The Raspberry Pi, serving as the control unit, initiates the conveyor belt's movement.
 6. When the conveyor belt reaches a table where an order is destined, it stops for a set period to allow for order pickup.
 7. Customer picks up orders during the stoppage period.
