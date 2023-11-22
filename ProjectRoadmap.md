@@ -5,7 +5,8 @@ Macaron Cafe Conveyor Belt - Project Roadmap
 - [x] Find existing and related repositry to this project
 - [x] Create and find 3D Models with TinerCAD
 - [x] Print 3D Models
-- [ ] Assemble conveyor belt
-- [ ] Design code for Rasberry PI
+- [ ]  Assemble conveyor belt
+- [x] Design code for Rasberry PI
+- [ ] Add code for buttons with time frame for conveyor belt
 - [ ] Test the software for bugs and issues.
 - [ ] Make improvements.
